@@ -62,4 +62,4 @@ This project is based on the following Master's Thesis:
 ## Contact
 
 - Email: gholamian92@gmail.com    
-- LinkedIn: [www.linkedin.com/in/farzaneh-gholamian-biomedical-enginee](#)
+- LinkedIn: [www.linkedin.com/in/farzaneh-gholamian-biomedical-engineer](#)
